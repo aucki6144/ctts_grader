@@ -1,0 +1,24 @@
+Neutral:
+0017_000060|0017|{DH AE1 T AY1 EY1 EH1 M AH0 B AO1 R N N ER1 S}|That I am a born nurse.|Neutral
+0014_000283|0014|{DH EY1 HH AE1 D B IH0 N N EY1 M D T AA1 M AE1 N D JH EH1 R IY0}|They had been named Tom and Jerry.|Neutral
+0018_000273|0018|{AY1 D JH AH1 S T EH1 Z S UW1 N S W IH1 M Y UH1 R W EY1 AE1 Z AH1 DH ER0 Z D UW1}|I'd just as soon swim your way as others do.|Neutral
+
+Angry:
+0016_000543|0016|{P L IY1 Z HH AY1 R M IY1 AE1 F T ER0 Y UW1}|Please hire me after you.|Angry
+0019_000371|0019|{EH1 Z R IH1 CH EH1 Z P IY1 T ER0 Z S AH1 N IH0 N L AO1}|As rich-as Peter's son in law!|Angry
+0013_000658|0013|{P ER0 HH AE1 P S Y UW1 TH IH1 NG K DH AE1 T IH0 Z EY1 K W IH1 R T AY1 T AH0 L F ER0 DH IH0 S CH AE1 P T ER0}|Perhaps you think that is a queer title for this chapter.|Angry
+
+Happy:
+0019_000823|0019|{AY1 AE1 M F R AH1 M T AW1 AH0 L L AE1 N D}|I am from towel land.|Happy
+0014_001050|0014|{D UW1 Y UW1 HH AE1 V EH1 N IY0 TH IH2 NG IH0 N M AY1 N D}|Do you have anything in mind?|Happy
+0013_001002|0013|{F AY1 V HH AH1 N D R AH0 D AH0 N D W AH1 N M IH1 L Y AH0 N R AY1 T}|Five hundred and one million right?|Happy
+
+Sad:
+0015_001373|0015|{HH W AY1 D IH1 D AY1 W EY1 K AH1 P}|Why did I wake up!|Sad
+0017_001103|0017|{HH IY1 W AH1 Z S T IH1 L IH0 N DH AH0 F AO1 R AH0 S T}|He was still in the forest!|Sad
+0019_001158|0019|{DH AH0 S K W AY1 R HH IH0 M S EH1 L F SH OW1 D P ER1 F IH2 K T}|The squire himself showed perfect.|Sad
+
+Surprise:
+0019_001489|0019|{L EH1 T G OW1 AH0 V M AY1 T AA1 P N AA1 T}|Let go of my top knot.|Surprise
+0014_001561|0014|{DH AE1 T S AH0 F UH1 L G R OW1 N K OW1 L T}|That's a full grown colt.|Surprise
+0014_001492|0014|{D IH0 Z DH AH0 W AH1 N DH AH0 T W IH1 N Z G IH1 T DH AH0 K R AW1 N D}|Does the one that wins get the crowned?|Surprise
