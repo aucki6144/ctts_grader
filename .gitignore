@@ -116,6 +116,6 @@ __pycache__
 /grader_hierspeech
 /home/ESD_en
 
-./grader.txt
-./grader_result.txt
-./time.txt
+/grader.txt
+/grader_result.txt
+/time.txt
