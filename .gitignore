@@ -115,3 +115,7 @@ __pycache__
 /audio_ground_truth
 /grader_hierspeech
 /home/ESD_en
+
+./grader.txt
+./grader_result.txt
+./time.txt
